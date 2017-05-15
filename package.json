@@ -1,0 +1,29 @@
+{
+  "name": "parse-parser",
+  "version": "1.0.0",
+  "description": "Parse SendGrid's parse webhook",
+  "main": "index.js",
+  "dependencies": {
+    "multiparty": "^4.1.3",
+    "iconv-lite": "^0.4.17"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FrivillighetNorge-Org/parseParser.git"
+  },
+  "keywords": [
+    "SendGrid",
+    "parse",
+    "webhook"
+  ],
+  "author": "Christian Kateraas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FrivillighetNorge-Org/parseParser/issues"
+  },
+  "homepage": "https://github.com/FrivillighetNorge-Org/parseParser#readme"
+}
